@@ -1,0 +1,87 @@
+\begin{thebibliography}{10}
+\def\selectlanguageifdefined#1{
+\expandafter\ifx\csname date#1\endcsname\relax
+\else\language\csname l@#1\endcsname\fi}
+\ifx\undefined\url\def\url#1{{\small #1}}\else\fi
+\ifx\undefined\BibUrl\def\BibUrl#1{\url{#1}}\else\fi
+\ifx\undefined\BibAnnote\long\def\BibAnnote#1{(#1)}\else\fi
+\ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
+
+\bibitem{ios}
+\selectlanguageifdefined{russian}
+iOS | Apple Developer Documentation / [Электронный ресурс].
+\newblock Режим доступа: \url{https://developer.apple.com/documentation/packagedescription/platform/ios/}
+
+\bibitem{apple}
+\selectlanguageifdefined{russian}
+Apple (Россия) -- Официальный сайт / [Электронный ресурс].
+\newblock Режим доступа: \url{https://www.apple.com/ru/}
+
+\bibitem{iphone}
+\selectlanguageifdefined{russian}
+iPhone -- Apple (RU) -- Официальный сайт / [Электронный ресурс].
+\newblock Режим доступа: \url{https://www.apple.com/ru/iphone/}
+
+\bibitem{youtube}
+\selectlanguageifdefined{russian}
+YouTube / [Электронный ресурс].
+\newblock Режим доступа: \url{https://www.youtube.com/}
+
+\bibitem{swift}
+\selectlanguageifdefined{russian}
+The Swift Programming Language (Swift 5.7) / [Электронный ресурс].
+\newblock Режим доступа: \url{https://www.apple.com/swift/}
+
+\bibitem{objc}
+\selectlanguageifdefined{russian}
+About Objective-C / [Электронный ресурс].
+\newblock Режим доступа: \url{https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html}
+
+\bibitem{hig}
+\selectlanguageifdefined{russian}
+Human Interface Guidelines -- Design -- Apple Developer / [Электронный ресурс].
+\newblock Режим доступа: \url{https://developer.apple.com/design/human-interface-guidelines/guidelines/overview/}
+
+\bibitem{frame}
+\selectlanguageifdefined{russian}
+frame | Apple Developer Documentation / [Электронный ресурс].
+\newblock Режим доступа: \url{https://developer.apple.com/documentation/uikit/uiview/1622621-frame}
+
+\bibitem{pixel}
+\selectlanguageifdefined{russian}
+Pixel | Definition and Meaning / [Электронный ресурс].
+\newblock Режим доступа: \url{https://www.merriam-webster.com/dictionary/pixel#h1}
+
+\bibitem{point}
+\selectlanguageifdefined{russian}
+point | Apple Developer Documentation / [Электронный ресурс].
+\newblock Режим доступа: \url{https://developer.apple.com/documentation/uikit/uiaccessibilitylocationdescriptor/2890956-point?changes}
+
+\bibitem{point2}
+\selectlanguageifdefined{russian}
+point | Apple Developer Documentation / [Электронный ресурс].
+\newblock Режим доступа: \url{https://design.sredaobuchenia.ru/ios}
+
+\bibitem{uiview}
+\selectlanguageifdefined{russian}
+UIView | Apple Developer Documentation / [Электронный ресурс].
+\newblock Режим доступа: \url{https://developer.apple.com/documentation/uikit/uiview}
+
+\bibitem{uikit}
+\selectlanguageifdefined{russian}
+UIKit | Apple Developer Documentation / [Электронный ресурс].
+\newblock Режим доступа: \url{https://developer.apple.com/documentation/uikit/uikit}
+
+\bibitem{swiftui}
+\selectlanguageifdefined{russian}
+SwiftUI | Apple Developer Documentation / [Электронный ресурс].
+\newblock Режим доступа: \url{https://developer.apple.com/documentation/swiftui}
+
+\bibitem{controller}
+\selectlanguageifdefined{russian}
+UIViewController | Apple Developer Documentation / [Электронный ресурс].
+\newblock Режим доступа: \url{https://developer.apple.com/documentation/uikit/uiviewcontroller}
+
+
+
+\end{thebibliography}

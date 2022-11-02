@@ -42,11 +42,6 @@ About Objective-C / [Электронный ресурс].
 Human Interface Guidelines -- Design -- Apple Developer / [Электронный ресурс].
 \newblock Режим доступа: \url{https://developer.apple.com/design/human-interface-guidelines/guidelines/overview/}
 
-\bibitem{frame}
-\selectlanguageifdefined{russian}
-frame | Apple Developer Documentation / [Электронный ресурс].
-\newblock Режим доступа: \url{https://developer.apple.com/documentation/uikit/uiview/1622621-frame}
-
 \bibitem{pixel}
 \selectlanguageifdefined{russian}
 Pixel | Definition and Meaning / [Электронный ресурс].
@@ -54,18 +49,13 @@ Pixel | Definition and Meaning / [Электронный ресурс].
 
 \bibitem{point}
 \selectlanguageifdefined{russian}
-point | Apple Developer Documentation / [Электронный ресурс].
+Point | Apple Developer Documentation / [Электронный ресурс].
 \newblock Режим доступа: \url{https://developer.apple.com/documentation/uikit/uiaccessibilitylocationdescriptor/2890956-point?changes}
 
-\bibitem{point2}
+\bibitem{displays}
 \selectlanguageifdefined{russian}
-point | Apple Developer Documentation / [Электронный ресурс].
-\newblock Режим доступа: \url{https://design.sredaobuchenia.ru/ios}
-
-\bibitem{uiview}
-\selectlanguageifdefined{russian}
-UIView | Apple Developer Documentation / [Электронный ресурс].
-\newblock Режим доступа: \url{https://developer.apple.com/documentation/uikit/uiview}
+Displays | Apple Developer Documentation / [Электронный ресурс].
+\newblock Режим доступа: \url{https://developer.apple.com/library/archive/documentation/DeviceInformation/Reference/iOSDeviceCompatibility/Displays/Displays.html}
 
 \bibitem{uikit}
 \selectlanguageifdefined{russian}
@@ -77,11 +67,25 @@ UIKit | Apple Developer Documentation / [Электронный ресурс].
 SwiftUI | Apple Developer Documentation / [Электронный ресурс].
 \newblock Режим доступа: \url{https://developer.apple.com/documentation/swiftui}
 
+\bibitem{uiview}
+\selectlanguageifdefined{russian}
+UIView | Apple Developer Documentation / [Электронный ресурс].
+\newblock Режим доступа: \url{https://developer.apple.com/documentation/uikit/uiview}
+
 \bibitem{controller}
 \selectlanguageifdefined{russian}
 UIViewController | Apple Developer Documentation / [Электронный ресурс].
 \newblock Режим доступа: \url{https://developer.apple.com/documentation/uikit/uiviewcontroller}
 
+\bibitem{frame}
+\selectlanguageifdefined{russian}
+Frame | Apple Developer Documentation / [Электронный ресурс].
+\newblock Режим доступа: \url{https://developer.apple.com/documentation/uikit/uiview/1622621-frame}
+
+\bibitem{superview}
+\selectlanguageifdefined{russian}
+Superview | Apple Developer Documentation / [Электронный ресурс].
+\newblock Режим доступа: \url{https://developer.apple.com/documentation/appkit/nsview/1483737-superview}
 
 
 \end{thebibliography}

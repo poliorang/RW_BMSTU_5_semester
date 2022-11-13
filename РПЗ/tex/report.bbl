@@ -87,5 +87,20 @@ Frame | Apple Developer Documentation / [Электронный ресурс].
 Superview | Apple Developer Documentation / [Электронный ресурс].
 \newblock Режим доступа: \url{https://developer.apple.com/documentation/appkit/nsview/1483737-superview}
 
+\bibitem{mainthread}
+\selectlanguageifdefined{russian}
+Thread | Apple Developer Documentation / [Электронный ресурс].
+\newblock Режим доступа: \url{https://developer.apple.com/documentation/foundation/thread?language=swift}
+
+\bibitem{autolayout}
+\selectlanguageifdefined{russian}
+Auto Layout Guide: Understanding Auto Layout / [Электронный ресурс].
+\newblock Режим доступа: \url{https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/}
+
+\bibitem{storyboard}
+\selectlanguageifdefined{russian}
+UIStoryboard | Apple Developer Documentation / [Электронный ресурс].
+\newblock Режим доступа: \url{https://developer.apple.com/documentation/uikit/uistoryboard?language=objc}
+
 
 \end{thebibliography}

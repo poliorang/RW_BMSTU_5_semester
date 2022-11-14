@@ -102,5 +102,15 @@ Auto Layout Guide: Understanding Auto Layout / [Электронный ресу�
 UIStoryboard | Apple Developer Documentation / [Электронный ресурс].
 \newblock Режим доступа: \url{https://developer.apple.com/documentation/uikit/uistoryboard?language=objc}
 
+\bibitem{interfacebuilder}
+\selectlanguageifdefined{russian}
+Auto Layout Guide: Working with Constraints in Interface Builder / [Электронный ресурс].
+\newblock Режим доступа: \url{https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/WorkingwithConstraintsinInterfaceBuidler.html#//apple_ref/doc/uid/TP40010853-CH10-SW1}
+
+\bibitem{cite1}
+\selectlanguageifdefined{russian}
+Peculiarities of layout user interface elements on the iOS and MacOS platforms./ И.М. Булыга.// UNIVERSUM: ТЕХНИЧЕСКИЕ НАУКИ -- 2022 -- 2(95) -- С. 45--48/// [Электронный ресурс].
+\newblock Режим доступа: \url{https://7universum.com/pdf/tech/2(95)/2(95_1).pdf#page=45}
+
 
 \end{thebibliography}

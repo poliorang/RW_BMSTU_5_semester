@@ -1,6 +1,6 @@
 \chapter{Результат анализа}
 
-Результаты анализа представлены в таблицах \ref{result} -- \ref{result3}.
+Результаты анализа представлены в таблицах \ref{result} -- \ref{result2}.
 
 \begin{table}[H]
 	\centering
@@ -49,18 +49,24 @@
 		Время работы метода увеличивается при увеличении взаимосвязей между объектами сцены, а также зависит от времени преобразования графического элемента в код.\\
 		\hline
 	\end{tabular}
-
 \end{table}
+
+Классификация методов верстки интерфейса мобильного приложения приведена в таблице \ref{result3}.
+
+
+
+%\begin{sidewaysfigure}
+\begin{landscape}
+%\begin{pdflscape}
 
 \begin{table}[H]
 	\centering
-	\caption{Результат анализа}
+	\caption{Классификация методов верстки интерфейса мобильного приложения}
 	\label{result3}
-	\resizebox{\textwidth}{!}{
-		\begin{tabular}{|p{2.3cm}|p{2.3cm}|p{3.2cm}|p{3.5cm}|p{3.0cm}|p{3.3cm}|p{2.4cm}|}
+		\begin{tabular}{|p{3.3cm}|p{3.3cm}|p{3.5cm}|p{3.5cm}|p{3.5cm}|p{3.5cm}|p{3.2cm}|}
 			\hline
-			\textbf{Класс метода} & \textbf{Название метода} & \textbf{Масштаби-\linebreakруемость  \linebreakинтерфейса} & 
-			\textbf{Возможность \linebreakкомандной \linebreakразработки} & \textbf{Сложность внесения изменений} & 
+			\textbf{Класс \linebreakметода} & \textbf{Название метода} & \textbf{Масштаби-\linebreakруемость  \linebreakинтерфейса} & 
+			\textbf{Возможность \linebreakкомандной \linebreakразработки} & \textbf{Сложность внесения \linebreakизменений} & 
 			\textbf{Возможность обработки параметров \linebreak UI-элемента} & \textbf{Скорость \linebreakработы  \linebreakметода} \\
 			\hline
 			{Метод ручной верстки} & 
@@ -73,5 +79,8 @@
 			\cline{2-7} & Interface Builder 
 			& Да & Да & Высокая & Нет & Низкая \\
 			\hline
-		\end{tabular}}
+		\end{tabular}
 \end{table}
+%\end{sidewaysfigure}
+%\end{pdflscape}
+\end{landscape}

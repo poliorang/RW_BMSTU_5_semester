@@ -1,4 +1,4 @@
-# RW_BMSTU_5_semester-Public
+# RW_BMSTU_5_semester  
  Research work / 5'sem of BMSTU
 
 `Тема:` Классификация методов верстки элементов интерфейса в разработке мобильных приложений под iOS  
